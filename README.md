@@ -21,4 +21,4 @@ The dataset is not included in this repository. Obtain it from its original sour
 
 ## Status
 
-This project is a work in progress. Model methodology and results will be documented as development continues.
+Feature analysis is done. Model development and evaluation are ongoing.
