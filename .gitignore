@@ -38,3 +38,9 @@ datasets/
 .idea/
 .DS_Store
 Thumbs.db
+
+# Local notebook backups
+notebooks/*_backup.ipynb
+
+# Generated trained models
+models/*.joblib
